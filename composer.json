@@ -1,0 +1,16 @@
+{
+    "name": "project/delivery",
+    "autoload": {
+        "psr-4": {
+            "Project\\Delivery\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "joaoviitorc"
+        }
+    ],
+    "require": {
+        "league/plates": "^3.6"
+    }
+}
